@@ -1,7 +1,7 @@
 # FP1
 This program was built to track the sale of details in the store.
 
-The purpose of the project is to experiment with creating a project using gui, object-oriented, and implementing design patterns such as observer, moment and more.
+The purpose of the project is to experiment with creating a project using GUI, object-oriented, and implementing design patterns such as observer, moment and more.
 
 # Main page #
 
